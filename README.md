@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **thouria.ben-haddi@univ-tlse3.fr**
 
-- 📄 Know about my experiences (french) <a href="https://drive.google.com/file/d/1NHPiRXc-TrOdL2ePkj6zXLlIlkPmJ-xw/view?usp=sharing](https://drive.google.com/file/d/1NHPiRXc-TrOdL2ePkj6zXLlIlkPmJ-xw/view?usp=sharing">Resume</a>
+
 
 <p align="left">
 </p>
