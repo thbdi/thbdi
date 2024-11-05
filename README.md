@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thbdi&label=Profile%20views&color=0e75b6&style=flat" alt="thbdi" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 PhD Student at **LAAS-CNRS** and **INSA Toulouse**
 
-- 📫 How to reach me **thouria.ben-haddi@univ-tlse3.fr**
+- 📫 How to reach me **tbenhaddi@laas.fr**
 
 
 
